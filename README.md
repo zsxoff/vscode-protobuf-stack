@@ -9,6 +9,8 @@
     - [1. Extensions](#1-extensions)
     - [2. Config](#2-config)
 
+---
+
 ## Pre-requirements
 
 ### 1. Protocol Buffer Compiler
