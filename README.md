@@ -73,6 +73,12 @@ code --install-extension zxh404.vscode-proto3
 code --install-extension plex.vscode-protolint
 ```
 
+- [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
+
+```bash
+code --install-extension xaver.clang-format
+```
+
 ### 2. Config
 
 ```json
